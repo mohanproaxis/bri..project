@@ -1,0 +1,42 @@
+.nav {
+  width: 100vw;
+  height: 10vh;
+  background-color: gray;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.first {
+  color: orange;
+}
+.second {
+  color: green;
+  display: flex;
+}
+.logo {
+  display: flex;
+}
+
+.admin {
+  border-radius: 50%;
+  width: 25px;
+  height: 30px;
+}
+
+.right {
+  display: flex;
+}
+.theme {
+  margin-right: 20px;
+}
+.changebtn {
+  padding: 7px;
+  background-color: green;
+  border-radius: 30px;
+
+  border: 1px solid;
+}
+.changebtn img {
+  margin-right: 8px;
+}

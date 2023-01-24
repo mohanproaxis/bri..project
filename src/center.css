@@ -1,0 +1,17 @@
+.list {
+  width: 264px;
+  height: 290px;
+  position: absolute;
+  left: 50px;
+  top: 120px;
+  padding: 10px;
+  background-color: rgb(213, 213, 221);
+  overflow: hidden;
+}
+.symbol {
+  cursor: pointer;
+}
+.symbol:hover {
+  cursor: pointer;
+  background-color: rgb(163, 163, 179);
+}

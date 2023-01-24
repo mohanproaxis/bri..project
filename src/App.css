@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.maindiv {
+  height: 80%;
+  width: 100%;
+  background-color: rgb(158, 149, 149);
+}
